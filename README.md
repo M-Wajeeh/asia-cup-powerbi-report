@@ -15,7 +15,7 @@ The dashboard is designed with **synced slicers** across both pages, making it e
 ## Report Pages & Visuals
 
 ### **Page 1 – Overview Dashboard**
-![Dashboard Page 1](images/Screenshot 2025-08-29 105307.png)
+![Dashboard Page 1](images/page1.png)
 - **Runs Scored by Year (Line/Bar)**: Shows how total runs vary by year with two viewing options.
 - **Top Run Scorers**: Bar chart displaying top-performing batsmen.
 - **Top Wicket Takers**: Visual highlighting bowlers with the most wickets.
@@ -24,7 +24,7 @@ The dashboard is designed with **synced slicers** across both pages, making it e
 ---
 
 ### **Page 2 – Detailed Insights**
-![Dashboard Page 1](images/page1.png)
+![Dashboard Page 1](images/page2.png)
 - **Match-wise Runs Comparison**: Stacked column chart comparing team performances.
 - **Player of the Match Awards**: Count of awards by players.
 - **Country Performance Trend**: Line chart showing how each country has performed across tournaments.
